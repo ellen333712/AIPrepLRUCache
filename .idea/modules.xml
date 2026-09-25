@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AI Coding Practice.iml" filepath="$PROJECT_DIR$/AI Coding Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AIPrep-LRUCache.iml" filepath="$PROJECT_DIR$/AIPrep-LRUCache.iml" />
     </modules>
   </component>
 </project>
